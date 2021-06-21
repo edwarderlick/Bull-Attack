@@ -9,7 +9,6 @@ Hacking is a Crime!!! This Tool Only Use For Educational Perpose Don't Work Any 
     ```
     apt update && apt upgrade -y
     apt install python python2 git
-    cd $HOME
     git clone https://github.com/Bhai4You/Bull-Attack
     cd Bull-Attack
     chmod +x B-attack.py
